@@ -1,0 +1,119 @@
+
+  .checkout h1 {
+    padding: 20px;
+    color: blueviolet;
+    width: 100%;
+    
+  }
+  
+  .checkout h2 {
+    margin-bottom: 10px;
+   
+  }
+  
+  /* Cart summary styles */
+  .cart-summary {
+    flex: 1;
+    margin-right: 20px;
+    max-width: 500px;
+    margin-left: 25px;
+  }
+  
+  .cart-summary ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .cart-summary li {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+  }
+  
+  .cart-summary img {
+    max-width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .cart-summary h2,
+  .cart-summary p {
+    margin: 5px 0;
+  }
+  
+  .cart-summary button {
+    margin-top: 5px;
+    padding: 7px;
+    width: 100px;
+    border-radius: 4px;
+    background-color: #ec2a08;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .cart-summary button:hover {
+    background-color: #d82608;
+  }
+  
+  /* Form styles */
+  .checkout-form {
+    flex: 1;
+    max-width: 500px;
+    margin-left: 20px;
+  }
+  
+  .checkout-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .checkout-form input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+  }
+  
+  .checkout-form button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .checkout-form button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Contact information on the right side */
+  .contact-info {
+    flex: 1;
+    margin-left: 20px;
+  }
+  
+  .contact-info h2 {
+    margin-bottom: 10px;
+  }
+  
+  .check p {
+    margin-bottom: 5px;
+    font-weight: 500;
+  }
+  
+  .check button {
+    margin-top: 5px;
+    font-weight: 500;
+  }
+  .checkout-form label{
+    width: 300px;
+  }
+  .modal-content p{
+    font-size: 30px;
+    color: blueviolet;
+  }
+
+  .modal-content button{
+    background-color: red;
+    padding: 5px;
+    border-radius: 5px;
+  }

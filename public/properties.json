@@ -1,0 +1,123 @@
+[
+    {
+      "id": "1",
+      "title": "Cozy Apartment",
+      "description": "A cozy apartment in the city center.",
+      "price": 120,
+      "location": "City Center",
+      "bedrooms": 1,
+      "image": "/images/image1.jpg",
+      "amenities": ["WiFi", "Air Conditioning", "Kitchen"]
+    },
+    {
+      "id": "2",
+      "title": "Luxury Villa",
+      "description": "A luxurious villa with a private pool.",
+      "price": 500,
+      "location": "Suburbs",
+      "bedrooms": 4,
+      "image": "/images/image2.jpg",
+      "amenities": ["Pool", "Gym", "Private Garden"]
+    },
+    {
+      "id": "3",
+      "title": "Cozy Apartment",
+      "description": "A cozy apartment with modern amenities.",
+      "price": 120,
+      "location": "Downtown",
+      "bedrooms": 1,
+      "image": "/images/image3.jpg",
+      "amenities": ["WiFi", "Air Conditioning", "Kitchen"]
+    },
+    {
+      "id": "4",
+      "title": "Luxury Villa",
+      "description": "A stunning villa with scenic views.",
+      "price": 500,
+      "location": "Countryside",
+      "bedrooms": 5,
+      "image": "/images/image4.jpg",
+      "amenities": ["Pool", "Gym", "Private Garden"]
+    },
+    {
+      "id": "5",
+      "title": "Cozy Studio",
+      "description": "A stylish studio apartment in the heart of the city.",
+      "price": 200,
+      "location": "City Center",
+      "bedrooms": 10,
+      "image": "/images/image5.jpg",
+      "amenities": ["WiFi", "Kitchen"]
+    },
+    {
+        "id": "6",
+        "title": "Beach Apartment Studio",
+        "description": "A stylish studio apartment in the heart of the city.",
+        "price": 100,
+        "location": "village",
+        "bedrooms": 4,
+        "image": "/images/image6.jpg",
+        "amenities": ["WiFi", "Kitchen"]
+      },
+    {
+      "id": "7",
+      "title": "Beach House",
+      "description": "A beautiful house by the beach.",
+      "price": 600,
+      "location": "Beachside",
+      "bedrooms": 3,
+      "image": "/images/image21.jpg",
+      "amenities": ["Pool", "Private Garden", "Beach Access"]
+    },
+    {
+      "id": "8",
+      "title": "Mountain Cabin",
+      "description": "A rustic cabin in the mountains.",
+      "price": 150,
+      "location": "Mountains",
+      "bedrooms": 2,
+      "image": "/images/image8.jpg",
+      "amenities": ["WiFi", "Fireplace", "Kitchen"]
+    },
+    {
+      "id": "9",
+      "title": "Urban Penthouse",
+      "description": "A luxurious penthouse with panoramic city views.",
+      "price": 800,
+      "location": "City Center",
+      "bedrooms": 3,
+      "image": "/images/image9.jpg",
+      "amenities": ["Pool", "Gym", "Private Garden"]
+    },
+    {
+      "id": "10",
+      "title": "Historic Mansion",
+      "description": "A grand mansion with historical charm.",
+      "price": 1000,
+      "location": "Historic District",
+      "bedrooms": 6,
+      "image": "/images/image10.jpg",
+      "amenities": ["Pool", "Gym", "Private Garden"]
+    },
+    {
+        "id": "11",
+        "title": "Historic Mansion",
+        "description": "A grand mansion with historical charm.",
+        "price": 1000,
+        "location": "Historic District",
+        "bedrooms": 6,
+        "image": "/images/image11.jpg",
+        "amenities": ["Pool", "Gym", "Private Garden"]
+      },
+      {
+        "id": "12",
+        "title": "Historic Mansion",
+        "description": "A grand mansion with historical charm.",
+        "price": 1000,
+        "location": "Historic District",
+        "bedrooms": 6,
+        "image": "/images/image12.jpg",
+        "amenities": ["Pool", "Gym", "Private Garden"]
+      }
+  ]
+  

@@ -1,0 +1,30 @@
+.cart h1{
+    margin-left: 16px;
+    width: 130px;
+    font-size: 24px;
+    margin-top: 5px;
+}
+.fullcart{
+    margin-left: 18px;
+    margin-top: 10px;
+}
+.fullcart button{
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px 10px;
+    background-color: rgb(230, 46, 138);
+    border-radius: 5px;
+    border: none;
+}
+.cartcart h2{
+    margin-bottom: 5px;
+}
+.cartbutton{
+    margin-bottom: 15px;
+    margin-left: 3px;  
+}
+
+.total{
+    color: rgb(165, 7, 7);
+}
