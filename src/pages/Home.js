@@ -42,7 +42,7 @@ const Home = () => {
       let filtered = properties
         .filter(prop => prop.price >= filters.minPrice && prop.price <= filters.maxPrice)
         .filter(prop => prop.bedrooms >= filters.minBedrooms && prop.bedrooms <= filters.maxBedrooms)
-        .filter(prop => !filters.location || prop.location === filters.location)
+        .filter(prop => !filters.location || prop.location.toLowerCase().includes(filters.location.toLowerCase())); // Updated to handle partial matches
         
       setFilteredProperties(filtered);
     };
